@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "ecf85639-a70a-4efe-ba08-114c47461906")
+	(uuid "3eaf7147-f6f1-447f-a5fd-31e0f53b004d")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Analog_DAC:AD5691RxRM"
